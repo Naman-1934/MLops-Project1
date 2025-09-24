@@ -1,0 +1,6 @@
+mongodb atlas,
+vehicle insurance project, 
+cluster 0's username: shahnaman755_db_user,
+password: MQK7QjSXz41ZBNDp
+
+mongodb+srv://shahnaman755_db_user:<db_password>@cluster0.whb4hfd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
